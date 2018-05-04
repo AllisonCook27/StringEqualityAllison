@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\StringEqualityAllison\StringEqualityAllison\bin\Debug\StringEqualityAllison.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\StringEqualityAllison\StringEqualityAllison\bin\Debug\StringEqualityAllison.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\StringEqualityAllison\StringEqualityAllison\bin\Debug\StringEqualityAllison.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\StringEqualityAllison\StringEqualityAllison\obj\Debug\StringEqualityAllison.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\StringEqualityAllison\StringEqualityAllison\obj\Debug\StringEqualityAllison.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\StringEqualityAllison\StringEqualityAllison\obj\Debug\StringEqualityAllison.frmStringEquality.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\StringEqualityAllison\StringEqualityAllison\obj\Debug\StringEqualityAllison.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\StringEqualityAllison\StringEqualityAllison\obj\Debug\StringEqualityAllison.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\StringEqualityAllison\StringEqualityAllison\obj\Debug\StringEqualityAllison.pdb
